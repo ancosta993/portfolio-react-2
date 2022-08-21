@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.5735e1b8.css",
+    "main.js": "/photo-port/static/js/main.b52ba002.js",
+    "static/js/787.438779d4.chunk.js": "/photo-port/static/js/787.438779d4.chunk.js",
+    "static/media/run-buddy.PNG": "/photo-port/static/media/run-buddy.4d1a8e5e4a9aeffb148f.PNG",
+    "static/media/zookeeper.PNG": "/photo-port/static/media/zookeeper.473b9c84d41fd12fcdc7.PNG",
+    "static/media/tech-blog.PNG": "/photo-port/static/media/tech-blog.448e170f5a72dfcb8f1d.PNG",
+    "static/media/work-day-schedular.PNG": "/photo-port/static/media/work-day-schedular.066320360f3f7fd8e7ff.PNG",
+    "static/media/baseball-organizer.PNG": "/photo-port/static/media/baseball-organizer.660be3f393b2525c04bf.PNG",
+    "static/media/stream-searcher.PNG": "/photo-port/static/media/stream-searcher.dd6df028be73e97ddb3c.PNG",
+    "static/media/note-taker.PNG": "/photo-port/static/media/note-taker.017284302aae99548103.PNG",
+    "index.html": "/photo-port/index.html",
+    "main.5735e1b8.css.map": "/photo-port/static/css/main.5735e1b8.css.map",
+    "main.b52ba002.js.map": "/photo-port/static/js/main.b52ba002.js.map",
+    "787.438779d4.chunk.js.map": "/photo-port/static/js/787.438779d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5735e1b8.css",
+    "static/js/main.b52ba002.js"
+  ]
+}
