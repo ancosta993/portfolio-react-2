@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5735e1b8.css",
-    "main.js": "/react-portfolio/static/js/main.b4c8bea7.js",
-    "static/js/787.438779d4.chunk.js": "/react-portfolio/static/js/787.438779d4.chunk.js",
-    "static/media/run-buddy.PNG": "/react-portfolio/static/media/run-buddy.4d1a8e5e4a9aeffb148f.PNG",
-    "static/media/zookeeper.PNG": "/react-portfolio/static/media/zookeeper.473b9c84d41fd12fcdc7.PNG",
-    "static/media/tech-blog.PNG": "/react-portfolio/static/media/tech-blog.448e170f5a72dfcb8f1d.PNG",
-    "static/media/work-day-schedular.PNG": "/react-portfolio/static/media/work-day-schedular.066320360f3f7fd8e7ff.PNG",
-    "static/media/baseball-organizer.PNG": "/react-portfolio/static/media/baseball-organizer.660be3f393b2525c04bf.PNG",
-    "static/media/stream-searcher.PNG": "/react-portfolio/static/media/stream-searcher.dd6df028be73e97ddb3c.PNG",
-    "static/media/note-taker.PNG": "/react-portfolio/static/media/note-taker.017284302aae99548103.PNG",
-    "index.html": "/react-portfolio/index.html",
-    "main.5735e1b8.css.map": "/react-portfolio/static/css/main.5735e1b8.css.map",
-    "main.b4c8bea7.js.map": "/react-portfolio/static/js/main.b4c8bea7.js.map",
-    "787.438779d4.chunk.js.map": "/react-portfolio/static/js/787.438779d4.chunk.js.map"
+    "main.css": "/portfolio-react/static/css/main.5735e1b8.css",
+    "main.js": "/portfolio-react/static/js/main.24bf0bbe.js",
+    "static/js/787.438779d4.chunk.js": "/portfolio-react/static/js/787.438779d4.chunk.js",
+    "static/media/run-buddy.PNG": "/portfolio-react/static/media/run-buddy.4d1a8e5e4a9aeffb148f.PNG",
+    "static/media/zookeeper.PNG": "/portfolio-react/static/media/zookeeper.473b9c84d41fd12fcdc7.PNG",
+    "static/media/tech-blog.PNG": "/portfolio-react/static/media/tech-blog.448e170f5a72dfcb8f1d.PNG",
+    "static/media/work-day-schedular.PNG": "/portfolio-react/static/media/work-day-schedular.066320360f3f7fd8e7ff.PNG",
+    "static/media/baseball-organizer.PNG": "/portfolio-react/static/media/baseball-organizer.660be3f393b2525c04bf.PNG",
+    "static/media/stream-searcher.PNG": "/portfolio-react/static/media/stream-searcher.dd6df028be73e97ddb3c.PNG",
+    "static/media/note-taker.PNG": "/portfolio-react/static/media/note-taker.017284302aae99548103.PNG",
+    "index.html": "/portfolio-react/index.html",
+    "main.5735e1b8.css.map": "/portfolio-react/static/css/main.5735e1b8.css.map",
+    "main.24bf0bbe.js.map": "/portfolio-react/static/js/main.24bf0bbe.js.map",
+    "787.438779d4.chunk.js.map": "/portfolio-react/static/js/787.438779d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5735e1b8.css",
-    "static/js/main.b4c8bea7.js"
+    "static/js/main.24bf0bbe.js"
   ]
 }
