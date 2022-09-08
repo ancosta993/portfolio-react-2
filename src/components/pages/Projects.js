@@ -69,6 +69,14 @@ function Projects(){
                <a href='#'><span className='git-repo'>Git Repo</span></a>
             </div>
          </li>
+         <li className='photo'>
+            <img className='photo-img' alt='connect-fitness' src={require('../../assets/projects/connect-fitness.PNG')}/>
+            <div className='photo-text'>
+               Zookeeper
+               <a href='https://radiant-chamber-74647.herokuapp.com/'><span className='deployed'>Deployed</span></a>
+               <a href='https://github.com/ancosta993/Connect-Fitness'><span className='git-repo'>Git Repo</span></a>
+            </div>
+         </li>
       </ul>
      </section>
    )
