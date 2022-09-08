@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-react-2/static/css/main.5735e1b8.css",
-    "main.js": "/portfolio-react-2/static/js/main.96c2b69d.js",
+    "main.js": "/portfolio-react-2/static/js/main.e8ce0e36.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react-2/static/js/787.aeca62f9.chunk.js",
     "static/media/run-buddy.PNG": "/portfolio-react-2/static/media/run-buddy.4d1a8e5e4a9aeffb148f.PNG",
+    "static/media/connect-fitness.PNG": "/portfolio-react-2/static/media/connect-fitness.9e7c76cccd4545a226be.PNG",
     "static/media/zookeeper.PNG": "/portfolio-react-2/static/media/zookeeper.473b9c84d41fd12fcdc7.PNG",
     "static/media/tech-blog.PNG": "/portfolio-react-2/static/media/tech-blog.448e170f5a72dfcb8f1d.PNG",
     "static/media/work-day-schedular.PNG": "/portfolio-react-2/static/media/work-day-schedular.066320360f3f7fd8e7ff.PNG",
@@ -12,11 +13,11 @@
     "static/media/note-taker.PNG": "/portfolio-react-2/static/media/note-taker.017284302aae99548103.PNG",
     "index.html": "/portfolio-react-2/index.html",
     "main.5735e1b8.css.map": "/portfolio-react-2/static/css/main.5735e1b8.css.map",
-    "main.96c2b69d.js.map": "/portfolio-react-2/static/js/main.96c2b69d.js.map",
+    "main.e8ce0e36.js.map": "/portfolio-react-2/static/js/main.e8ce0e36.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react-2/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5735e1b8.css",
-    "static/js/main.96c2b69d.js"
+    "static/js/main.e8ce0e36.js"
   ]
 }
