@@ -1,3 +1,23 @@
+# Portfolio with React
+The deployed application can be found [here](https://github.com/ancosta993/portfolio-react-2)
+
+## Introduction
+This is a portfolio in progress coded with React. So far, it is just the basic usage of React. It focuses on displaying all the pages, coloring them and adding transition animations. The app wishes to be very smooth and interactive. It will realy on animations and coloring to make it appealing to the client. 
+
+## Table of Content
+**[Introduction](#introduction)**
+
+**[Tools](#tools)**
+
+**[Usage](#usage)**
+
+## Tools
+It was coded using Node.js environment. React was used for developing the front end. Create React App (CRA) was used to install all the necessary modules to use React. Finally, HTML5 and CSS was used for root index file and styling. 
+
+## Usage
+There is no installation required for this app. This app can be visited through [this link](https://github.com/ancosta993/portfolio-react-2).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
